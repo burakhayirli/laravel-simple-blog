@@ -1,3 +1,2 @@
 # laravel-simple-blog
-
-Eğitim amaçlı bir blog projesi yazıldı.
+A Simple Full Stack Blog Website Development with Laravel 
